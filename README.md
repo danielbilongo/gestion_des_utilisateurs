@@ -32,7 +32,7 @@ Chaque utilisateur est défini par un nom, un email, un mot de passe et un rôle
 2.URL de base de l'API (Utilisateurs): http://localhost:8080/api/users
 3.URL de base de l'API (Authentification): http://localhost:8080/auth/login
 
-## Exemple de creation d'un utilisateur(admin):http://localhost:8080/swagger-ui/index.html#/User%20Management/createUser
+## Exemple de création d'un utilisateur(admin):http://localhost:8080/swagger-ui/index.html#/User%20Management/createUser
 {
   "name": "ngaland",
   "email": "ngaland@example.com",
